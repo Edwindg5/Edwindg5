@@ -110,11 +110,19 @@
 
 ---
 
-## 🏆 Trofeos
+## 🏆 Logros & Trofeos
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Edwindg5&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+| 🏅 Métrica | 📊 Valor |
+|---|---|
+| ⭐ Total commits | 824+ |
+| 🔥 Contribuciones totales | 644+ |
+| 📦 Repositorios públicos | 63 |
+| 🧠 Lenguaje principal | Python / Go |
+| 🏆 Racha más larga | 10 días |
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Edwindg5&theme=tokyonight&no-frame=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
