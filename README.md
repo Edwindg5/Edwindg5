@@ -1,20 +1,23 @@
 <div align="center">
 
-<!-- Typing SVG animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hola%2C+soy+Edwin+%F0%9F%91%8B;Backend+Developer+%7C+Go+%7C+Python+%7C+Java;Security+%7C+Cloud+%7C+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hola%2C+soy+Edwin+%F0%9F%91%8B;Backend+Developer+%7C+Go+%7C+Python+%7C+Java;Security+%7C+Cloud+%7C+APIs+%7C+Full+Stack)](https://git.io/typing-svg)
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Edwindg5&color=00d9ff&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="profile views"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edwin_Díaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-de-jesus-diaz-garcia-0014982a1/)
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-de-jesus-diaz-garcia-0014982a1/)
 [![GitHub](https://img.shields.io/badge/GitHub-Edwindg5-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edwindg5)
+[![Gmail](https://img.shields.io/badge/Gmail-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwindg5@gmail.com)
 
 </div>
 
 ---
 
-<!-- Snake animation de contribuciones -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Edwindg5/Edwindg5/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Edwindg5/Edwindg5/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 </div>
 
 ---
@@ -59,12 +62,12 @@ func main() {
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -92,12 +95,12 @@ func main() {
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Desktop](https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -107,24 +110,36 @@ func main() {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edwindg5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwindg5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<a href="https://github.com/Edwindg5">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Edwindg5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Edwindg5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Edwindg5&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Edwindg5&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 Trofeos de GitHub
+## 🏆 Trofeos
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Edwindg5&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Edwindg5&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Actividad reciente
+
+<div align="center">
+
+[![Edwin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Edwindg5&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -134,10 +149,12 @@ func main() {
 
 <div align="center">
 
-[![api-seguridad](https://github-readme-stats.vercel.app/api/pin/?username=Edwindg5&repo=api-seguridad&theme=tokyonight&hide_border=true)](https://github.com/Edwindg5/api-seguridad)
-[![api2rabbitmq](https://github-readme-stats.vercel.app/api/pin/?username=Edwindg5&repo=api2rabbitmq&theme=tokyonight&hide_border=true)](https://github.com/Edwindg5/api2rabbitmq)
-[![api-gestor](https://github-readme-stats.vercel.app/api/pin/?username=Edwindg5&repo=api-gestor&theme=tokyonight&hide_border=true)](https://github.com/Edwindg5/api-gestor)
-[![GestionEmpleado](https://github-readme-stats.vercel.app/api/pin/?username=Edwindg5&repo=GestionEmpleado&theme=tokyonight&hide_border=true)](https://github.com/Edwindg5/GestionEmpleado)
+[![api-seguridad](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Edwindg5&repo=api-seguridad&theme=tokyonight&hide_border=true)](https://github.com/Edwindg5/api-seguridad)
+[![api2rabbitmq](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Edwindg5&repo=api2rabbitmq&theme=tokyonight&hide_border=true)](https://github.com/Edwindg5/api2rabbitmq)
+[![api-gestor](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Edwindg5&repo=api-gestor&theme=tokyonight&hide_border=true)](https://github.com/Edwindg5/api-gestor)
+[![GestionEmpleado](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Edwindg5&repo=GestionEmpleado&theme=tokyonight&hide_border=true)](https://github.com/Edwindg5/GestionEmpleado)
+[![appweb](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Edwindg5&repo=appweb&theme=tokyonight&hide_border=true)](https://github.com/Edwindg5/appweb)
+[![webpy](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Edwindg5&repo=webpy&theme=tokyonight&hide_border=true)](https://github.com/Edwindg5/webpy)
 
 </div>
 
@@ -146,23 +163,24 @@ func main() {
 ## 🐍 Mis contribuciones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Edwindg5/Edwindg5/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions"/>
+  <img src="https://raw.githubusercontent.com/Edwindg5/Edwindg5/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" width="100%"/>
 </div>
 
 ---
 
-## 📫 Contáctame
-
 <div align="center">
+
+### 💬 ¿Tienes un proyecto interesante? Hablemos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-de-jesus-diaz-garcia-0014982a1/)
 [![Gmail](https://img.shields.io/badge/Gmail-Escribir-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwindg5@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edwindg5)
 
----
+<br/>
 
 *"El código limpio no se escribe siguiendo un conjunto de reglas. Lo escribes intentando comunicar tu intención."*
 
-⭐ **Si algún proyecto te sirvió, dale una estrella — me motiva a seguir construyendo cosas chidas.**
+<br/>
+
+⭐ **Si algún proyecto te sirvió, dale una estrella — me motiva a seguir construyendo.**
 
 </div>
