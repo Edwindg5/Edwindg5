@@ -24,34 +24,19 @@
 
 ## 🧑‍💻 Sobre mí
 
-```go
-package main
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-import "fmt"
+- 🚀 **Backend Developer** enfocado en APIs REST y microservicios
+- 🎓 Estudiante de **Ing. en TI** · Universidad Politécnica de Chiapas
+- 📅 **9° cuatrimestre** — a punto de egresar
+- 📍 Tuxtla Gutiérrez, Chiapas, México 🇲🇽
+- 🛡️ Apasionado de la **ciberseguridad** y pentesting con Kali Linux
+- ☁️ Aprendiendo **AWS, Docker, Kubernetes** y arquitecturas cloud
+- 🔭 Construyendo proyectos con **Go, Python y FastAPI**
+- 💼 **Disponible para oportunidades profesionales**
+- ⚡ Fun fact: prefiero la terminal sobre cualquier GUI
 
-type Developer struct {
-    Name       string
-    Age        int
-    University string
-    Location   string
-    Focus      []string
-    Learning   []string
-    Available  bool
-}
-
-func main() {
-    edwin := Developer{
-        Name:       "Edwin de Jesús Díaz García",
-        Age:        20,
-        University: "Universidad Politécnica de Chiapas — 9° cuatrimestre",
-        Location:   "Tuxtla Gutiérrez, Chiapas, México 🇲🇽",
-        Focus:      []string{"Backend APIs", "Microservicios", "Cloud AWS", "Seguridad"},
-        Learning:   []string{"Kubernetes", "Terraform", "FastAPI avanzado"},
-        Available:  true, // ← buscando oportunidad profesional
-    }
-    fmt.Printf("¡Hola mundo! Soy %s 🚀\n", edwin.Name)
-}
-```
+<br clear="right"/>
 
 ---
 
@@ -111,8 +96,8 @@ func main() {
 <div align="center">
 
 <a href="https://github.com/Edwindg5">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Edwindg5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Edwindg5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Edwindg5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Edwindg5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </a>
 
 </div>
