@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-de-jesus-diaz-garcia-0014982a1/)
 [![GitHub](https://img.shields.io/badge/GitHub-Edwindg5-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edwindg5)
 [![Gmail](https://img.shields.io/badge/Gmail-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwindg5@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lan--edg.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://lan-edg.vercel.app/)
 
 </div>
 
